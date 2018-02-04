@@ -45,8 +45,9 @@ function destructivelyAddElementToEndOfArray(array, element){
       array.pop(element);
       return array;}
       
+      
       function accessElementInArray(array, index){
-        console.log(array[accessElementInArray([1, 2, 3], 2]);
+        console.log(array[index]);
 
       }
       
