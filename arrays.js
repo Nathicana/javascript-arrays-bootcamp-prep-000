@@ -37,4 +37,7 @@ function destructivelyAddElementToEndOfArray(array, element){
     return array;
     }
     
-    function 
+    function destructivelyRemoveElementFromEndOfArray(array, element){
+      array.pop(element);
+      return array;
+    }
