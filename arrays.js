@@ -48,7 +48,7 @@ function destructivelyAddElementToEndOfArray(array, element){
       
       
       function accessElementInArray(array, index){
-      array[index];
+      array[3];
        return array;
       }
       
