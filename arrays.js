@@ -8,7 +8,7 @@ chocolateBars.unshift("Mounds");
 
 
 function addElementToBeginningOfArray(array, element){
-  array.unshift(element);
+  var arrayNew = [element, ...array];
   return arrayNew;
 }
 
