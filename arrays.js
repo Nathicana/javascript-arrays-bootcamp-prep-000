@@ -21,3 +21,5 @@ function addElementToEndOfArray(array, element){
   array.push(element);
   return array;
 }
+
+function 
