@@ -9,7 +9,7 @@ chocolateBars.unshift("Mounds");
 
 function addElementToBeginningOfArray(array, element){
   array.unshift(element);
-  return array;
+  return arrayNew;
 }
 
 function destructivelyAddElementToBeginningOfArray(array,element){
