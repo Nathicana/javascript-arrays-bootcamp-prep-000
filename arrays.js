@@ -42,7 +42,7 @@ function destructivelyAddElementToEndOfArray(array, element){
     }
     
     function removeElementFromEndOfArray(array, element){
-      
+      array.pop(element);
       return array;}
       
      
